@@ -1,8 +1,8 @@
-# DATAtourism
- Mise à jour il y a 15 minutes
+# DATAtourisme
+ 
 DATAtourisme qui est une plateforme recensant tous les points d'intérêt touristique de France, portée par l'Etat, animé par ADN tourisme, et alimenté par l'ensemble des Offices de tourisme et autres producteurs de données touristiques publiques (CDT, CRT)
 
-Ainsi dans le cadre d'un projet professionnel, je devais:
+Ainsi dans le cadre d'un projet professionnel, il était demandé :
 
 Réaliser un tableau de bord permettant de visualiser les données disponibles, et mis à jour automatiquement.
 
