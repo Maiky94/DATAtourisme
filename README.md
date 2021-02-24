@@ -12,3 +12,5 @@ Répartition des données par région / département / catégorie / fournisseur 
 
 Evolution du nombre de données disponibles au fil du temps
 
+La visualisation à été faite sous-forme d'application web et déployer en ligne via streamlit share, consultable à cette url : https://share.streamlit.io/maiky94/datatourisme/main/app_data_tourisme.py
+
